@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "strictBindCallApply": true,
+    "strictFunctionTypes": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "target": "ES2020",
+    "baseUrl": "./",
+    "paths": {
+      "*": [
+        "*"
+      ]
+    }
+  },
+  "include": [
+    "problems/**/*",
+  ],
+  "exclude": [
+    "node_modules",
+    "**/*.spec.ts"
+  ]
+}
