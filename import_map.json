@@ -1,0 +1,8 @@
+
+{
+  "imports": {
+    "lodash": "https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.js",
+    "@datastructures-js/priority-queue":"https://cdn.jsdelivr.net/npm/@datastructures-js/priority-queue@5.3.0/index.js",
+    "@datastructures-js/queue":"https://cdn.jsdelivr.net/npm/@datastructures-js/queue@4.2.1/index.js"
+  }
+}

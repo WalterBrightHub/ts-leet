@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "walter",
   "license": "MIT",
+  "scripts": {
+    "start":"deno run --import-map ./import_map.json "
+  },
   "devDependencies": {
     "@datastructures-js/priority-queue": "5.3.0",
     "@datastructures-js/queue": "4.2.1",
