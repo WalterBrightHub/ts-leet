@@ -35,7 +35,7 @@ function smallestEvenMultiple(n: number): number {
 }
 
 // test
-const ans = smallestEvenMultiple(5)
+export const ans = smallestEvenMultiple(5)
 
 console.log(ans)
 
